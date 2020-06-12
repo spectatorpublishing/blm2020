@@ -1,0 +1,141 @@
+
+.body{
+  padding-bottom: 2vh;
+}
+
+.box{
+    text-align: center;
+    width: 100%;
+  margin-top: 5vh;
+  height: 55vh;
+}
+
+.oped-container{
+    width: 70vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.contained {
+  display: inline-flex;
+  align-content: left;
+  transition-duration: 1s;
+}
+
+.containered{
+    display: inline-flex;
+}
+
+
+.leftArrow{
+  width: 8vw;
+  cursor: pointer;
+  position: relative;
+}
+
+.leftArrowArrow{
+  width: 20px;
+  position: absolute;
+  top: 50%;
+  right: 0%;
+  transform: translateY(-50%);
+}
+
+.rightArrow{
+  width: 8vw;
+  cursor: pointer;
+  position: relative;
+}
+
+.rightArrowArrow{
+  width: 20px;
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  transform: translateY(-50%);
+}
+
+.oped{
+    display: flex;
+    width: 33vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    justify-content: center;
+  position: relative;
+}
+
+@media(max-width:992px){
+  .oped {
+    width: 67vw !important;
+  }
+  .allcontainer{
+    height: 44vh !important;
+  }
+  .box{
+    height: 44vh !important;
+    margin-top: 2vh !important;
+  }
+}
+
+.year{
+    margin-left: auto;
+    display: flex;
+    height: 6vh;
+    justify-content: center;
+}
+
+.title{
+    font-family: 'Oswald',sans-serif;
+    color: white;
+    font-size: 2rem;
+    line-height: 2rem;
+    text-shadow: 0.2rem 0.2rem black;
+    margin: 0.5rem 1rem;
+}
+
+.date {
+  color: white;
+  font-size: 1rem;
+}
+
+a{
+  text-decoration: none;
+}
+
+.blurb {
+  width: 33vw;
+  display: flex;
+  justify-content:center;
+  align-content:center;
+  flex-direction:column;
+  background-color: rgba(0,0,0,0.75);
+  color: white;
+  position: absolute;
+  z-index: 10;
+  opacity: 0;
+  transition: 0.5s;
+  height: 200px;
+  vertical-align: middle;
+  font-family: Whitney;
+}
+
+.blurbtext{
+  width: 90%;
+  margin-left: 5%;
+}
+
+@media(max-width:992px){
+  .blurb {
+    width: 67vw !important;
+  }
+}
+
+a:hover .blurb {
+  opacity: 1;
+}

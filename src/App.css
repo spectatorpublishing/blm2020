@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding-bottom: 10vh;
+  margin-bottom: -50px;
+}
+
+.maintitle{
+  padding-top: 15vh;
+  background:
+  linear-gradient(
+          rgba(0, 0, 0, 0.28),
+          rgba(0, 0, 0, 0.28)
+  ),
+  url("https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/B354XQIZ2RDYVHYPVUT6YJGBUY.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* height: 75vh; */
+}
+.opinion{
+  margin: 2vw;
+  margin-left: 15vw;
+  text-align: left;
+  font-size: 1.5rem;
+  font-family: Whitney, sans-serif;
+}
+
+.letter{
+  font-family: Oswald, sans-serif;
+  font-size: 2rem;
+  text-align: left;
+  width: 80%;
+  margin: 10vw 10% 2vw 10%;
+}
+
+.letter-content {
+  font-family: Whitney, sans-serif;
+  text-align: left;
+  width: 80%;
+  margin: 0 10%;
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+
+.letter-content a{
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.timeline-title {
+  font-family: Oswald, sans-serif;
+  text-align: center;
+  font-size: 3rem;
+  margin: 3rem 0;
+}
+
+.thepath{
+  width: 70vw;
+}
+
+.sub{
+  font-family: Whitney, sans-serif;
+  margin: 2vw;
+  font-size: 1.5rem;
+  text-align: center;
+  line-height: 1.5rem;
+}
+
+@media (max-width: 992px){
+  .sub, .opinion{
+    font-size: 1rem !important;
+    line-height: 1rem !important;
+  }
+}
+
+.allcontainer{
+  overflow-y: hidden;
+  height: 50vh;
+}
+
+.allcontain{
+  transition-duration: 1s;
+}
+
+.upArrow{
+  height: 10vh;
+  cursor: pointer;
+  position: relative;
+}
+
+.upArrowArrow{
+  position: absolute;
+  bottom: 0%;
+  transform: translateX(-50%);
+  width: 100px;
+}
+
+.downArrow{
+  height: 10vh;
+  cursor: pointer;
+}
+
+.downArrowArrow{
+  width: 100px;
+}
+
+.keyImage{
+  width: 30px;
+  vertical-align: middle;
+  margin: .5rem;
+}
