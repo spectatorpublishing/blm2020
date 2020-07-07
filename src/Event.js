@@ -63,7 +63,8 @@ class RightArrow extends Component{
     render(){
         return(
             <div className={'rightArrow'} id={this.props.year + "right"} onClick={this.handleClick.bind(this)} style={{opacity: this.checkOpac()}}>
-                <img className={'rightArrowArrow'} src={'https://catfish.columbiaspectator.com/videos/Asset2.svg'}/>
+                <img className={'rightArrowArrow'} src={'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3HEVEYZCMZEYJPCHS3U44TLXGY.png'}
+                style = {{transform:'rotate(90deg)'}}/>
             </div>
         )
     }
@@ -109,7 +110,8 @@ class LeftArrow extends Component{
     render(){
         return(
             <div className={'leftArrow'} id={this.props.year + "left"} onClick={this.handleClick.bind(this)} style={{opacity: '0.5'}}>
-                <img className={'leftArrowArrow'} src={'https://catfish.columbiaspectator.com/videos/Asset1.svg'}/>
+                <img className={'leftArrowArrow'} src={'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3HEVEYZCMZEYJPCHS3U44TLXGY.png'}
+                style = {{transform:'rotate(-90deg)'}}/>
             </div>        )
     }
 }
@@ -121,7 +123,10 @@ class Event extends Component{
         let opedList = this.props.opeds;
         let toReturn = [];
         for (let i = 0; i < opedList.length; i++){
-            console.log("event" + opedList[i][3]);
+            // console.log('YEET', i);
+            
+            // console.log('opedlist', opedList[i])
+            // console.log("event" + opedList[i][3]);
             toReturn.push(<OpEd id={opedList[i][0]} title={opedList[i][0]} date={opedList[i][1]} background={opedList[i][2]} icons={opedList[i][3]} url={opedList[i][4]} blurb={opedList[i][5]}/>);
         }
         return toReturn;
@@ -133,7 +138,7 @@ class Event extends Component{
             <div>
                 <div className={'box'}>
                     <div className={'year'}>
-                        <img src={'https://catfish.columbiaspectator.com/videos/' + this.props.year + '.svg'} style={{width:'100%'}}/>
+                            <img src={'https://catfish.columbiaspectator.com/videos/' + this.props.year + '.svg'} style={{width:'100%'}}/>
                     </div>
                     <div className={'containered'}>
                         <LeftArrow opeds={this.props.opeds} year={this.props.year}/>

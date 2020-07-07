@@ -10,10 +10,10 @@
   padding-top: 15vh;
   background:
   linear-gradient(
-          rgba(0, 0, 0, 0.28),
-          rgba(0, 0, 0, 0.28)
+          rgba(0, 0, 0, 0),
+          rgba(0, 0, 0, 1)
   ),
-  url("https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/B354XQIZ2RDYVHYPVUT6YJGBUY.jpg");
+  url("https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2Q6DU26VE5GM5J5Q2TRRIDPRFI.png");
   background-repeat: no-repeat;
   background-size: contain;
   /* height: 75vh; */

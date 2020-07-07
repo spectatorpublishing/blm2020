@@ -33,10 +33,10 @@ class OpEd extends Component{
         if (this.props.icons != null) {
             for (let i = 0; i < this.props.icons.length; i++) {
                 let a = "";
-                if(this.props.icons[i]===(1)) a = 'https://catfish.columbiaspectator.com/videos/Theme1.svg';
-                if(this.props.icons[i]===(2)) a = 'https://catfish.columbiaspectator.com/videos/Theme2.svg';
-                if(this.props.icons[i]===(3)) a = 'https://catfish.columbiaspectator.com/videos/Theme3.svg';
-                if(this.props.icons[i]===(4)) a = 'https://catfish.columbiaspectator.com/videos/Theme4.svg';
+                if(this.props.icons[i]===(1)) a = 'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MFYJEBOIYNBJTNYGQHB3O6PAZY.png';
+                if(this.props.icons[i]===(2)) a = 'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DQYXU4AKQFDTTGKN5LVPZ33774.png';
+                if(this.props.icons[i]===(3)) a = 'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OHLML5GTFVBC3NLCWJY6FZ6SYM.png ';
+                if(this.props.icons[i]===(4)) a = 'https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YJCTG4CADVFV3NUQVONGVZ5YIY.png';
                 icon.push(<Icon bgimage={a}/>);
             }
         }
