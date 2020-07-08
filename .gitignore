@@ -1,3 +1,6 @@
 node_modules/
 package-lock.json
 Assets/
+build/
+render.js
+style.css
