@@ -168,7 +168,7 @@ class App extends Component {
                 <Timeline excludeYears = {excludeYears} activeItem = {this.state.activeItem} setActiveItem={this.setActiveItem}/>
                 <div className={'allcontainer'}>
                 <div className={'allcontain'} id={'allcontain'} style={{transform: 'translateY(0)'}}>
-                    <Event year={"2016"}
+                    <Event year={"https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ERFLEC4UUVEHLMYO2EQOCDSSDY.png"}
                            opeds={
                                [
                                    [
@@ -206,7 +206,7 @@ class App extends Component {
                                ]
                            }
                     />
-                    <Event year={"2017"}
+                    <Event year={"https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TT7BYIORC5H6DFP7DCAMRMAD7E.png"}
                            opeds={
                                [
                                    [
@@ -332,7 +332,7 @@ class App extends Component {
                                ]
                            }
                     />
-                    <Event year={"2018"}
+                    <Event year={"https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2DL4N6DDVNHP3CJC6KJJYP4IE4.png"}
                            opeds={
                                [
                                    [
@@ -410,7 +410,7 @@ class App extends Component {
                                ]
                            }
                     />
-                    <Event year={"2019"}
+                    <Event year={"https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DR7XG4WL2ZAFPKAUM4ZTY2A33Q.png"}
                            opeds={
                                [
                                    [
@@ -497,7 +497,7 @@ class App extends Component {
                                ]
                            }
                     />
-                    <Event year={"2020"}
+                    <Event year={"https://cloudfront-us-east-1.images.arcpublishing.com/spectator/UNEVBVKOCNDENARSELRFZZE2ZA.png"}
                            opeds={
                                [
                                    [

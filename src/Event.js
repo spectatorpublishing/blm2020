@@ -138,7 +138,7 @@ class Event extends Component{
             <div>
                 <div className={'box'}>
                     <div className={'year'}>
-                            <img src={'https://catfish.columbiaspectator.com/videos/' + this.props.year + '.svg'} style={{width:'100%'}}/>
+                            <img src={this.props.year} style={{height:'180%'}}/>
                     </div>
                     <div className={'containered'}>
                         <LeftArrow opeds={this.props.opeds} year={this.props.year}/>
