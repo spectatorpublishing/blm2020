@@ -1,9 +1,22 @@
 {
-  "main.css": "/blm2020/static/css/main.dde60204.css",
-  "main.js": "/blm2020/static/js/main.cf7c0383.js",
-  "main.js.map": "/blm2020/static/js/main.cf7c0383.js.map",
-  "static/css/main.dde60204.css.map": "/blm2020/static/css/main.dde60204.css.map",
-  "index.html": "/blm2020/index.html",
-  "precache-manifest.97216b8a78e950449856b7a5cb0f519d.js": "/blm2020/precache-manifest.97216b8a78e950449856b7a5cb0f519d.js",
-  "service-worker.js": "/blm2020/service-worker.js"
+  "files": {
+    "main.css": "/blm2020/static/css/main.c27281dc.chunk.css",
+    "main.js": "/blm2020/static/js/main.a58f9e6a.chunk.js",
+    "main.js.map": "/blm2020/static/js/main.a58f9e6a.chunk.js.map",
+    "runtime-main.js": "/blm2020/static/js/runtime-main.9bdba9eb.js",
+    "runtime-main.js.map": "/blm2020/static/js/runtime-main.9bdba9eb.js.map",
+    "static/js/2.f9da808d.chunk.js": "/blm2020/static/js/2.f9da808d.chunk.js",
+    "static/js/2.f9da808d.chunk.js.map": "/blm2020/static/js/2.f9da808d.chunk.js.map",
+    "index.html": "/blm2020/index.html",
+    "precache-manifest.d6afa5ee1d2f5b2125cd06eccfe5a240.js": "/blm2020/precache-manifest.d6afa5ee1d2f5b2125cd06eccfe5a240.js",
+    "service-worker.js": "/blm2020/service-worker.js",
+    "static/css/main.c27281dc.chunk.css.map": "/blm2020/static/css/main.c27281dc.chunk.css.map",
+    "static/js/2.f9da808d.chunk.js.LICENSE.txt": "/blm2020/static/js/2.f9da808d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bdba9eb.js",
+    "static/js/2.f9da808d.chunk.js",
+    "static/css/main.c27281dc.chunk.css",
+    "static/js/main.a58f9e6a.chunk.js"
+  ]
 }
