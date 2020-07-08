@@ -132,9 +132,6 @@ class App extends Component {
                         OPINION ARCHIVE
                     </div>
                     <img className={'thepath'} src={'https://catfish.columbiaspectator.com/videos/ThePath.svg'} style={{opacity:0.0}}/>
-                    <div className={'sub'}>
-                        AN EDITORIAL HISTORY OF THE GRADUATE STUDENTS OF COLUMBIA UNIVERSITY
-                    </div>
                     <div className={'letter'}>
                         LETTER FROM THE EDITOR:
                     </div>
@@ -164,7 +161,7 @@ class App extends Component {
                         Editorial Page Editor</p>
                     </div>
                     <div className="timeline-title">
-                    EXPLORE THE TIMELINE
+                    EXPLORE PIECES
                     </div>
                 </div>
                 <UpArrow updateActive={this.decrementActiveItem}/>
