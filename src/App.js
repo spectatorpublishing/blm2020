@@ -139,30 +139,28 @@ class App extends Component {
                         LETTER FROM THE EDITOR:
                     </div>
                     <div className="letter-content">
-                        <p>Dear Reader,</p><p>
+                        <p>Dear readers,</p><p>
 
-                        From May 11 to July 20, 1894, 250,000 workers from across 27 states went on strike. Exactly 40 days later, the Pullman Strike ended—though not before 30 union workers were killed by the railroad companies and transportation across the Midwest ground to a halt. </p><p>
+                        Outside of the classroom, I find that personal growth and moral inquiry are often inadvertently regarded as separate dispositions at Columbia. When in class, we maintain that to shape and alter society is to scribble down a thought and raise our hands. Yet upon leaving the classroom, it seems that for many, notions of change and the responsibility to act recoil inward. </p><p>
 
-                        Dating <a href="https://www.columbiaspectator.com/eye-lead/2018/09/26/looking-back-18-years-into-the-fight-for-a-union/">the fight for graduate student unionization</a> proves more difficult. Did it begin in <a href="http://spectatorarchive.library.columbia.edu/?a=q&r=121&results=1&e=-------en-20--101--txt-txIN-graduate+student+unionization------">April 1999</a>, with the first meeting between the Graduate Student Advisory Council and then-Dean of Arts and Sciences Eduardo Macagno? Did it begin in 2000, with a dedicated group of history students forming Graduate Student Employees United? Or did it only begin in earnest in April 2002, with a strike eerily similar to one that <a href="https://www.columbiaspectator.com/news/2018/04/25/picket-lines-and-canceled-classes-mark-beginning-of-graduate-student-strike/">would occur 16 years later</a>, in April 2018? </p><p>
+                        Are discussions on justice, equality, race, or class only of “worth” when they lead to a Columbia degree or are the impassioned arguments I’ve heard in class catalyzed by something more? </p><p>
 
-                        For this archival timeline, we’ve chosen an ambiguous start in the aughts and conclude just before the vote to bargain early this week. This project is the first of its kind for Opinion, combining op-eds, columns, letters to the editor, and staff editorials from the last 20 years into a coherent narrative which spans the history of graduate student unionization from conception to—finally—bargaining. </p><p>
+                        In the wake of the death of George Floyd and the subsequent protests, I am skeptical about how long this persistent hum of morals being released from their restraints will continue. However, while it lasts, I encourage the exploration of this phenomena—internal morality’s exposure to the outside world. I fundamentally believe that personal growth and moral inquiry are, in effect, the same thing.  </p><p>
 
-                        In creating this, I expected to find a linear story, a steady development of opinions as the attitudes and predicaments of students changed. Instead, we found a narrative full of stops and starts, a history of opinions as cyclical as the history of the unionization struggle itself. The defining questions that organize the pieces below, indicated by the small icons on the top, are as follows:</p>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MFYJEBOIYNBJTNYGQHB3O6PAZY.png"></img>Are members of Graduate Workers of Columbia students or workers?</div>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DQYXU4AKQFDTTGKN5LVPZ33774.png"></img>Is graduate student unionization in the interests of undergraduates?</div>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OHLML5GTFVBC3NLCWJY6FZ6SYM.png"></img>Will a union benefit graduate students?</div>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YJCTG4CADVFV3NUQVONGVZ5YIY.png"></img>Is there a legal mandate for graduate student unionization?</div>
+                        In your pursuit of morality and personal growth, I urge you to read through some of the experiences of and injustices suffered by the Black community at the hands of students and Columbia itself over the past four years. The purpose of this scope is to promote sustained action, so I also implore you to treat it as more than a class reading and aim to deeply engage with it. I hope you will continue to seek a better understanding of not only your peers and the greater Black community, but also other oppressed people grappling with racism in America. </p><p>
+
+                        Each piece will have an icon that corresponds with its general theme for increased accessibility and absorption:</p>
+                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MFYJEBOIYNBJTNYGQHB3O6PAZY.png"></img>Administrative: What is the impact of institutional racism?</div>
+                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DQYXU4AKQFDTTGKN5LVPZ33774.png"></img>Student Life: What is the impact of anti-Blackness?</div>
+                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OHLML5GTFVBC3NLCWJY6FZ6SYM.png"></img>Student Life: What is the Black experience at Columbia?</div>
+                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YJCTG4CADVFV3NUQVONGVZ5YIY.png"></img>City: What is Columbia’s impact on Harlem and other predominantly Black communities?</div>
                         
                         <p>
 
-                        The sheer amount written on graduate student unionization in the last two decades means that this project, while extensive, does not feature every article. But I hope that it can serve as a reference for the future of unionization discussions. I hope that it can showcase the ways in which the Opinion pages become an archivist for the campus community, long after we leave the picket line. I hope that it can provide guidance in the fight for unionization continues.</p><p>
+                        So much is currently unknown, but I hope that you find some meaning in reading what is. </p><p>
 
-                        We have chosen bargaining as the denouement to this timeline, but there is no guarantee that the end is here; the opposite may be true. The University has been known to stall, and with an inability to strike until April 2020, the graduate workers union may find themselves in bargaining limbo for at least the following two years.</p><p>
-
-                        I don’t know what will happen. If the past two decades of op-eds tell us anything, it is that the fight can always continue. </p><p>
-
-                        Yours,</p><p>
-                        Hannah Barbosa Cesnik</p><p>
+                        Sincerely,</p><p>
+                        Tamarah Wallace</p><p>
                         Editorial Page Editor</p>
                     </div>
                     <div className="timeline-title">
