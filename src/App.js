@@ -147,10 +147,10 @@ class App extends Component {
                         In your pursuit of morality and personal growth, I urge you to read through some of the experiences of and injustices suffered by the Black community at the hands of students and Columbia itself over the past four years. The purpose of this scope is to promote sustained action, so I also implore you to treat it as more than a class reading and aim to deeply engage with it. I hope you will continue to seek a better understanding of not only your peers and the greater Black community, but also other oppressed people grappling with racism in America. </p><p>
 
                         Each piece will have an icon that corresponds with its general theme for increased accessibility and absorption:</p>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MFYJEBOIYNBJTNYGQHB3O6PAZY.png"></img>Administrative: What is the impact of institutional racism?</div>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DQYXU4AKQFDTTGKN5LVPZ33774.png"></img>Student Life: What is the impact of anti-Blackness?</div>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OHLML5GTFVBC3NLCWJY6FZ6SYM.png"></img>Student Life: What is the Black experience at Columbia?</div>
-                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YJCTG4CADVFV3NUQVONGVZ5YIY.png"></img>City: What is Columbia’s impact on Harlem and other predominantly Black communities?</div>
+                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DQYXU4AKQFDTTGKN5LVPZ33774.png"></img>Administrative: What is the impact of institutional racism?</div>
+                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OHLML5GTFVBC3NLCWJY6FZ6SYM.png"></img>Student Life: What is the impact of anti-Blackness?</div>
+                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YJCTG4CADVFV3NUQVONGVZ5YIY.png"></img>Student Life: What is the Black experience at Columbia?</div>
+                        <div><img className="keyImage" src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MFYJEBOIYNBJTNYGQHB3O6PAZY.png"></img>City: What is Columbia’s impact on Harlem and other predominantly Black communities?</div>
                         
                         <p>
 
