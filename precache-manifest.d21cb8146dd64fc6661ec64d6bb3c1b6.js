@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e7e80d7e7e717be3b9869eb41cc19a4",
+    "revision": "43d34ddd6ce05f6bf61cd82b5497c56d",
     "url": "/blm2020/index.html"
   },
   {
-    "revision": "3f019aa8e68fd5100180",
-    "url": "/blm2020/static/css/main.c27281dc.chunk.css"
+    "revision": "c16e9eb80a9386e35490",
+    "url": "/blm2020/static/css/main.6155d4e9.chunk.css"
   },
   {
     "revision": "4415514661aab02ba9f6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blm2020/static/js/2.f9da808d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f019aa8e68fd5100180",
-    "url": "/blm2020/static/js/main.40128fcd.chunk.js"
+    "revision": "c16e9eb80a9386e35490",
+    "url": "/blm2020/static/js/main.529baf42.chunk.js"
   },
   {
     "revision": "44805dfdf7d4109eb1de",
