@@ -26,14 +26,18 @@
   font-family: Whitney, sans-serif;
 }
 
-.illustration-credits {
+.credits {
   margin: 2vw;
   float: right;
-  margin-top: 25%;
+  margin-top: 22%;
   margin-right: 9vw;
   text-align: left;
   font-size: 1rem;
   font-family: Whitney, sans-serif;
+}
+.credits p {
+  margin-top: .3em;
+  margin-bottom: .3em;
 }
 
 .letter{
@@ -41,7 +45,7 @@
   font-size: 2rem;
   text-align: left;
   width: 80%;
-  margin: 10vw 10% 2vw 10%;
+  margin: 30% 10% 2vw 10%;
 }
 
 .letter-content {
@@ -83,10 +87,14 @@
     font-size: 1rem !important;
     line-height: 1rem !important;
   }
-  .illustration-credits {
+  .credits {
     font-size: 0.8rem !important;
     line-height: 1rem !important;
-    margin-top: 20%;
+    margin-top: 7%;
+  }
+
+  .year {
+    margin-bottom: 2em;
   }
 }
 

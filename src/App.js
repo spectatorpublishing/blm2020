@@ -131,10 +131,12 @@ class App extends Component {
                     <div className={'opinion'}>
                         OPINION ARCHIVE
                     </div>
-                    <div className={'illustration-credits'}>
-                        Illustration by Ashely Jiao
+                    <div className={'credits'}>
+                        <p>Illustration by Ashely Jiao</p>
+                        <p>Design by David Wang</p>
+                        <p>Engineering by Luke Dobrović</p>
                     </div>
-                    <img className={'thepath'} src={'https://catfish.columbiaspectator.com/videos/ThePath.svg'} style={{opacity:0.0}}/>
+                    {/* <img className={'thepath'} src={'https://catfish.columbiaspectator.com/videos/ThePath.svg'} style={{opacity:0.0}}/> */}
                     <div className={'letter'}>
                         LETTER FROM THE EDITOR:
                     </div>
