@@ -26,6 +26,16 @@
   font-family: Whitney, sans-serif;
 }
 
+.illustration-credits {
+  margin: 2vw;
+  float: right;
+  margin-top: 25%;
+  margin-right: 9vw;
+  text-align: left;
+  font-size: 1rem;
+  font-family: Whitney, sans-serif;
+}
+
 .letter{
   font-family: Oswald, sans-serif;
   font-size: 2rem;
@@ -72,6 +82,11 @@
   .sub, .opinion{
     font-size: 1rem !important;
     line-height: 1rem !important;
+  }
+  .illustration-credits {
+    font-size: 0.8rem !important;
+    line-height: 1rem !important;
+    margin-top: 20%;
   }
 }
 
